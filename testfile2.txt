@@ -1,0 +1,3 @@
+﻿This test file contains multiple card numbers on 2 lines.
+<IssuingNetwork>4539057843062540>Visa<4024007117592310>4929278169977776</CardNumber>ngNetwork>
+Visa</IssuingNetwork><CardNumber>4929638155132894</CardNumber></CreditCard><CreditCard><IssuingNetwork>Visa</IssuingNetwork><CardNumber></CardNumber></CreditCard><CreditCard><IssuingNetwork>Visa</IssuingNetwork><CardNumber>4539057843062540</CardNumber></CreditCard><CreditCard>
